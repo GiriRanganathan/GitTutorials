@@ -1,4 +1,4 @@
 print()
 print('5')
-print()
-print()
+print("alka")
+print("Merge conflict resolved")

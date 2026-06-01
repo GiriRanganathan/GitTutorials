@@ -1,3 +1,4 @@
 pandas
+numpy
 scipy
 ##new commit todya
